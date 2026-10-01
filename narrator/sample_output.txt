@@ -1,0 +1,8 @@
+Situation
+Mamaearth's cleaned order base shows INR 97,358.30 in revenue after removing duplicate submissions. The key returns signal is payment-led: COD returns are 44.4%, compared with CARD at 14.7% and UPI at 18.9%.
+
+Complication
+The blended COD rate hides where the margin pressure is concentrated. The highest-risk segment is COD + Tier-2 cities at 54.5%. The revenue reconciliation also matters: raw SQL revenue was INR 99,860.20, and the INR 2,501.90 gap is fully explained by five duplicate orders, not by discount or rating cleanup.
+
+Resolution
+Regional ops should prioritize COD controls in Tier-2 cities, starting with address and intent checks before dispatch. Finance should use the cleaned INR 97,358.30 base for margin analysis. Growth planning should treat March as the true peak month at INR 20,318.90; January looked inflated at INR 29,582.10 only because bulk-order outliers pushed it above its corrected INR 11,637.10.
